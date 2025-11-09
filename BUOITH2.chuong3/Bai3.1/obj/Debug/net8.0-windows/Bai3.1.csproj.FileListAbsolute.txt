@@ -1,0 +1,17 @@
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\bin\Debug\net8.0-windows\Bai3.1.exe
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\bin\Debug\net8.0-windows\Bai3.1.deps.json
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\bin\Debug\net8.0-windows\Bai3.1.runtimeconfig.json
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\bin\Debug\net8.0-windows\Bai3.1.dll
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\bin\Debug\net8.0-windows\Bai3.1.pdb
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3._1.Form1.resources
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.csproj.GenerateResource.cache
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.AssemblyInfoInputs.cache
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.AssemblyInfo.cs
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.csproj.CoreCompileInputs.cache
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.sourcelink.json
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.dll
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\refint\Bai3.1.dll
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.pdb
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\Bai3.1.genruntimeconfig.cache
+D:\BTTH.Net\BUOITH2.chuong3\Bai3.1\obj\Debug\net8.0-windows\ref\Bai3.1.dll
