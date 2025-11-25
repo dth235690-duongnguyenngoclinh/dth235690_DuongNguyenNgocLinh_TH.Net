@@ -1,0 +1,14 @@
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.exe
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.deps.json
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.runtimeconfig.json
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.dll
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\bin\Debug\net8.0\Bai8.pdb
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.AssemblyInfoInputs.cache
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.AssemblyInfo.cs
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.csproj.CoreCompileInputs.cache
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.dll
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\refint\Bai8.dll
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.pdb
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\Bai8.genruntimeconfig.cache
+D:\LAPTRINHdotNET\BuoiTH1\Bai8\obj\Debug\net8.0\ref\Bai8.dll

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAPTRINHdotNET\\BuoiTH3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA8A30B-3D54-40BC-8618-208FE76B8D5F}|Buoi3_Bai9\\Buoi3_Bai9.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DA8A30B-3D54-40BC-8618-208FE76B8D5F}|Buoi3_Bai9\\Buoi3_Bai9.csproj|solutionrelative:buoi3_bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA8A30B-3D54-40BC-8618-208FE76B8D5F}|Buoi3_Bai9\\Buoi3_Bai9.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA8A30B-3D54-40BC-8618-208FE76B8D5F}|Buoi3_Bai9\\Buoi3_Bai9.csproj|solutionrelative:buoi3_bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1673AED-63A6-43F3-BB8D-F802568383BA}|Buoi3_Bai8\\Buoi3_Bai8.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1673AED-63A6-43F3-BB8D-F802568383BA}|Buoi3_Bai8\\Buoi3_Bai8.csproj|solutionrelative:buoi3_bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1673AED-63A6-43F3-BB8D-F802568383BA}|Buoi3_Bai8\\Buoi3_Bai8.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1673AED-63A6-43F3-BB8D-F802568383BA}|Buoi3_Bai8\\Buoi3_Bai8.csproj|solutionrelative:buoi3_bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D271FE-D602-47B5-9D9F-843A21D82551}|Buoi3_Bai7\\Buoi3_Bai7.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50D271FE-D602-47B5-9D9F-843A21D82551}|Buoi3_Bai7\\Buoi3_Bai7.csproj|solutionrelative:buoi3_bai7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D271FE-D602-47B5-9D9F-843A21D82551}|Buoi3_Bai7\\Buoi3_Bai7.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D271FE-D602-47B5-9D9F-843A21D82551}|Buoi3_Bai7\\Buoi3_Bai7.csproj|solutionrelative:buoi3_bai7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09E6B60-B51B-4ABD-803C-AF173E53324D}|Buoi3_Bai6\\Buoi3_Bai6.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F09E6B60-B51B-4ABD-803C-AF173E53324D}|Buoi3_Bai6\\Buoi3_Bai6.csproj|solutionrelative:buoi3_bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09E6B60-B51B-4ABD-803C-AF173E53324D}|Buoi3_Bai6\\Buoi3_Bai6.csproj|d:\\laptrinhdotnet\\buoith3\\buoi3_bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09E6B60-B51B-4ABD-803C-AF173E53324D}|Buoi3_Bai6\\Buoi3_Bai6.csproj|solutionrelative:buoi3_bai6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai9\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai9\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai9\\Form1.cs",
+              "RelativeToolTip": "Buoi3_Bai9\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:15:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai9\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai9\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai9\\Form1.cs [Design]",
+              "RelativeToolTip": "Buoi3_Bai9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:10:46.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai8\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai8\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai8\\Form1.cs",
+              "RelativeToolTip": "Buoi3_Bai8\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:09:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai8\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai8\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai8\\Form1.cs [Design]",
+              "RelativeToolTip": "Buoi3_Bai8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:05:35.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai7\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai7\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai7\\Form1.cs",
+              "RelativeToolTip": "Buoi3_Bai7\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:46:59.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai7\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai7\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai7\\Form1.cs [Design]",
+              "RelativeToolTip": "Buoi3_Bai7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:43:29.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai6\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai6\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai6\\Form1.cs",
+              "RelativeToolTip": "Buoi3_Bai6\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:34:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai6\\Form1.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai6\\Form1.cs",
+              "ToolTip": "D:\\LAPTRINHdotNET\\BuoiTH3\\Buoi3_Bai6\\Form1.cs [Design]",
+              "RelativeToolTip": "Buoi3_Bai6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:31:16.569Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
