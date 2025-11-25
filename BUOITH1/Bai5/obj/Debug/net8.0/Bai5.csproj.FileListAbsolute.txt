@@ -1,0 +1,15 @@
+D:\BTTH.Net\BUOITH1\Bai5\bin\Debug\net8.0\Bai5.exe
+D:\BTTH.Net\BUOITH1\Bai5\bin\Debug\net8.0\Bai5.deps.json
+D:\BTTH.Net\BUOITH1\Bai5\bin\Debug\net8.0\Bai5.runtimeconfig.json
+D:\BTTH.Net\BUOITH1\Bai5\bin\Debug\net8.0\Bai5.dll
+D:\BTTH.Net\BUOITH1\Bai5\bin\Debug\net8.0\Bai5.pdb
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfoInputs.cache
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfo.cs
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.csproj.CoreCompileInputs.cache
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.sourcelink.json
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.dll
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\refint\Bai5.dll
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.pdb
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\Bai5.genruntimeconfig.cache
+D:\BTTH.Net\BUOITH1\Bai5\obj\Debug\net8.0\ref\Bai5.dll
